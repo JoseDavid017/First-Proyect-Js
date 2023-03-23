@@ -1,0 +1,14 @@
+{
+    "name": "hola-mund",
+    "version": "1.0.0",
+    "description": "primer proyecto.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "ah pue"
+    },
+    "keywords": [
+    ],
+    "author": "Jose David",
+    "license": "ISC"
+
+}
